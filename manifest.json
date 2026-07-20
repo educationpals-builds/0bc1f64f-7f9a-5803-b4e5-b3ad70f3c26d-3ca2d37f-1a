@@ -1,0 +1,28 @@
+{
+  "verificationToken": "01KY0RZMPWV6S5AN97XNE8MCXX",
+  "courseId": "0bc1f64f-7f9a-5803-b4e5-b3ad70f3c26d",
+  "chapterId": "3ca2d37f-1aba-4c40-a31c-de8ee5884647",
+  "templateId": "tpl_bridge_blueprint",
+  "variants": [
+    {
+      "id": "tpl_bridge_blueprint",
+      "path": "bridge-blueprint.md"
+    },
+    {
+      "id": "tpl_comms_suite",
+      "path": "communications-suite.md"
+    },
+    {
+      "id": "tpl_readme",
+      "path": "README.md"
+    },
+    {
+      "id": "tpl_blueprint_chat",
+      "path": "blueprints/chat.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-20T22:05:14.332Z",
+  "compositionMode": null
+}
